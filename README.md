@@ -1,0 +1,1 @@
+# Data-efficient-GANs-with-Adaptive-Discriminator-Augmentation
